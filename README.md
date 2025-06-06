@@ -14,7 +14,7 @@
 `VSCode` `PhpStorm` `Git` `cPanel` `Google Search Console` `Mailchimp` `WHM` `Plesk` `Hotjar`
 
 📍 Based in **Vancouver, Canada**  
-🌱 Currently learning more about **Laravel**, **Python/Django**, and ** Edible Mushroom cultivation** 🍄  
+🌱 Currently learning more about **Laravel**, **Python/Django**, and **Edible Mushroom cultivation** 🍄  
 🧠 Passionate about **clean code**, **accessibility**, and making tech useful and human-centered.
 
 ---
