@@ -21,7 +21,7 @@
 
 📫 **Let’s connect!**  
 🌐 [Portfolio](https://mazaheri.ca)  
-📧 mehradmazi@gmail.com  
+📧 mehrad@mazaheri.ca 
 🔗 [LinkedIn](https://www.linkedin.com/in/mehrad-mazaheri/)  
 🐦 [Twitter/X](https://x.com/mehradmazi)
 
